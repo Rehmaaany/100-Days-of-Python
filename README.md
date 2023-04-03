@@ -10,4 +10,5 @@ Day-8: Object Oriented Programming. Classes, Instances, Decorators, Magic Method
 Day-9: More concepts of OOP. i.e. Abstraction, Encapsulation, Inheritance, Polymorphism. <br />
 Day-10: Revised the concepts of OOP in particular class, variables, methods, inheritance. <br />
 Day-11: Revised the concepts of Inheritance and went deep into the concepts like inhertiance, multiple inheritance, class explosions, duck typing, composition, mixins, inheritence. <br />
-Day-12: Revised all the concepts of OOP studied this week.
+Day-12: Revised all the concepts of OOP studied this week. <br />
+Day-13: Solved Codewar Exercise to further strengthesize my knowledge and logic building.
