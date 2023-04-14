@@ -14,4 +14,5 @@ Day-12: Revised all the concepts of OOP studied this week. <br />
 Day-13: Solved Codewar Exercise to further strengthesize my knowledge and logic building. <br />
 Day-14: Getting started with the library project. <br />
 Day-15: Learned NumPy for Data Pre-Processing. <br />
-Day 16: Started with Pandas Library for data pre-processing.
+Day 16: Started with Pandas Library for data pre-processing. <br />
+Day-17: Moved on with learning Pandas. Learned about Filtering and updating rows and columns.
