@@ -18,4 +18,5 @@ Day 16: Started with Pandas Library for data pre-processing. <br />
 Day-17: Moved on with learning Pandas. Learned about Filtering and updating rows and columns. <br />
 Day-18: Learned how to play with rows and columns in Pandas. <br />
 Day-19: Learned and Practiced about Aggregation and Grouping of Data with Data Cleaning. <br />
-Day-20: Worked with Time Series Data using Pandas. Also Learned how to read and write to different types of file formats with pandas and getting started with data visualization using matplotlib.
+Day-20: Worked with Time Series Data using Pandas. Also Learned how to read and write to different types of file formats with pandas and getting started with data visualization using matplotlib. <br />
+Day-21: Moved more into Data Visualization. Learned MatplotLib and Seaborn Libraries to visualize different kaggle datasets. <br />
