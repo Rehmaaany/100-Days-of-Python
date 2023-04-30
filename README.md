@@ -21,3 +21,4 @@ Day-19: Learned and Practiced about Aggregation and Grouping of Data with Data C
 Day-20: Worked with Time Series Data using Pandas. Also Learned how to read and write to different types of file formats with pandas and getting started with data visualization using matplotlib. <br />
 Day-21: Moved more into Data Visualization. Learned MatplotLib and Seaborn Libraries to visualize different kaggle datasets. <br />
 Day-22: Covered Advanced Topics of numPy such as how do the behind the scenes memory works with lists and numPy array. Used real-world gene data. Solved some Exerices using advanced methods. <br />
+Day-23: Further deep dive into the advanced concepts of Numeric Python. <br />
