@@ -24,3 +24,4 @@ Day-22: Covered Advanced Topics of numPy such as how do the behind the scenes me
 Day-23: Further deep dive into the advanced concepts of Numeric Python. <br />
 Day-24: Started to Learn and Practice the best pratices while using pandas. <br />
 Day-25: Revised and Practiced the concepts of data visualization using matplotlib and also learned multiple linear regression. <br />
+Day-26: Learned KNN Algorithm and Practiced and on iris dataset. <br />
