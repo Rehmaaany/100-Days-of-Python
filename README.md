@@ -27,4 +27,5 @@ Day-25: Revised and Practiced the concepts of data visualization using matplotli
 Day-26: Learned KNN Algorithm and Practiced and on iris dataset. <br />
 Day-27: Learned and Practiced the algorithm K-Means of clustering. <br />
 Day-28: Revised and Practiced the concept of KNN. <br />
-Day-29: Revised and practiced Logistic Regression algorithm in Python and also started to learn SVM.
+Day-29: Revised all the concepts of KNN and KMeans and practiced linear and multiple linear regression on cars dataset.
+
