@@ -29,6 +29,6 @@ Day-27: Learned and Practiced the algorithm K-Means of clustering. <br />
 Day-28: Revised and Practiced the concept of KNN. <br />
 Day-29: Revised all the concepts of KNN and KMeans and practiced linear and multiple linear regression on cars dataset. <br />
 Day-30: Revised and practiced Logistic Regression algorithm in Python and also started to learn SVM. <br />
-Day-31: Learned and practiced SVM both hard and soft with kernel trick.
-
+Day-31: Learned and practiced SVM both hard and soft with kernel trick. <br />
+Day-32: Started to implement ML Algorithms on datasets. Applied KNN on car evaluation dataset from kaggle.
 
