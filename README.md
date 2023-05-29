@@ -34,3 +34,4 @@ Day-32: Started to implement ML Algorithms on datasets. Applied KNN on car evalu
 Day-33: Implemented KMeans, Linear Regression and SVM on breast cancer, housing price and iris data sets respectively. Also started learning about Neural networks. <br />
 Day-34: Implemented Hand Written Digit Recognizer and trained the model on mnist data set using MLPClassifier. <br />
 Day-35: Took Animal Bite Dataset from Kaggle. Performed data cleansing and applied ML Models on it. <br />
+Day-36: Started learning about neural networks. Also Implemented and Practiced DBSCAN clustering model. <br />
