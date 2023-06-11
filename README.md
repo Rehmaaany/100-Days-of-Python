@@ -38,3 +38,4 @@ Day-36: Started learning about neural networks. Also Implemented and Practiced D
 Day-37: Revised and Practiced DBSCAN Algorithm on IRIS Dataset. <br />
 Day-38: Revised the concepts of Pandas and Data Visualization and implemented them on Dimaond Data set from Kaggle. Also learned how to train neural networks with back propogation. <br />
 Day-39: Learned the backend calculus of Neural Networks. Also, practiced and revised the concept of Linear and Multiple Linear Regression. <br />
+Day-40: Revised backpropogation algorithm and it's backend working. Revised and practiced K-Means model. <br />
